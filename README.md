@@ -15,5 +15,5 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-farag-00it)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-farag-3020b1141)
 - ✉️ [Email Me](mailto:mohamed.farag.00it@gmail.com)
