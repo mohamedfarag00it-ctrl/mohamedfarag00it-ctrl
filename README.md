@@ -2,26 +2,18 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Cybersecurity Student** from Egypt.
-- 🛡️ Passionate about Information Technology, Ethical Hacking, and Network Security.
-- 🚀 Self-learner constantly developing technical skills and hands-on experience.
+- 🚀 Passionate about Information Technology and Network Security.
+- 📚 Currently self-learning and building my foundation in tech.
 
 ---
 
-### 🛠️ Skills & Technologies
-- **Core Fields:** Cybersecurity & Information Technology 🛡️
-- **Programming:** Python 🐍
-- **Systems & Networking:** Linux Terminal Operations, Device Configuration & Router Systems 💻
-- **Focus Areas:** Security Operations, Network Fundamentals, and Technical Labs
-
----
-
-### 📊 GitHub Stats
-![Mido's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfarag00it-ctrl&show_icons=true&theme=dark)
+### 📖 What I am Learning
+- **Cybersecurity Fundamentals:** Learning the basics of security and ethical hacking.
+- **Programming:** Learning Python basics for automation.
+- **Systems & Networks:** Learning Linux terminal, network basics, and router configurations.
 
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-farag-3020b11411)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-farag-00it)
 - ✉️ [Email Me](mailto:mohamed.farag.00it@gmail.com)
-
-_"Continuous learning is the minimum requirement for success in cybersecurity."_
